@@ -1,0 +1,5 @@
+langchain
+langchain-community
+langchain-nomic
+faiss-cpu
+beautifulsoup4
